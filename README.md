@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning Projects<br>👯 I’m looking to collaborate on Machine Learning Kaggle Competition<br>🌱 I’m currently learning about Computer Vision<br>💬 Ask me anything about Machine Learning & Data Science
+🔭 I’m currently working on Machine Learning & Computer Vision Projects<br>👯 I’m looking to collaborate on Machine Learning Kaggle Competition<br>🌱 I’m currently learning about Computer Vision<br>💬 Ask me anything about Machine Learning & Data Science
 
 
 ## 🌐 Socials:
