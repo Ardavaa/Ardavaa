@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Machine Unlearning Research<br>👯 I’m looking to collaborate on Machine Learning Kaggle Competition<br>🌱 I’m currently learning about Large Language Model<br>💬 Ask me anything about Machine Learning & Data Science related topics
+🔭 I’m currently working on Machine Unlearning Research<br>👯 I’m looking to collaborate on Online/Offline Hackathon<br>🌱 I’m currently learning about Large Language Model<br>💬 Ask me anything about Machine Learning & Data Science related topics
 
 
 ## 🌐 Socials:
