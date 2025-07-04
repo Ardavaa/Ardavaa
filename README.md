@@ -1,23 +1,3 @@
-<div align="center">
-  
-![Banner](doc/banner.png)
-
-## `Let's Connect and have a Chat! 💬`
-
-<p align="center">
-  <a href="https://linkedin.com/in/muhammad-karov-ardava-barus-27b000223">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/rdavaa_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
-
-</div>
-
----
-
 ## 👨‍💻 A Little Bit About Me and My Interests
 
 ```json
@@ -45,6 +25,19 @@
   ]
 }
 ```
+## `Let's Connect and have a Chat! 💬`
+
+<p align="center">
+  <a href="https://linkedin.com/in/muhammad-karov-ardava-barus-27b000223">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/rdavaa_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+</div>
 
 
 
