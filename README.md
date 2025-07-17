@@ -20,6 +20,7 @@
     "Lead Data Scientist"
   ],
   "currently_learning": [
+    "Web 3",
     "Advanced DevOps & Cloud Architecture",
     "Large Language Models"
   ]
