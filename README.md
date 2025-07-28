@@ -17,12 +17,12 @@
   ],
   "technical_background": [
     "Machine Learning Engineer",
-    "Lead Data Scientist"
+    "Data Scientist",
+    "MLOps Engineer"
   ],
   "currently_learning": [
     "Web 3",
     "Advanced DevOps & Cloud Architecture",
-    "Large Language Models"
   ]
 }
 ```
