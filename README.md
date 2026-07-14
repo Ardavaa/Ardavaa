@@ -1,63 +1,97 @@
-## A Little Bit About Me and My Interests
-
-```json
-{
-  "name": "Muhammad Karov Ardava Barus",
-  "location": "Bandung, West Java",
-  "education": [
-    "Telkom University - B.S. in Data Science (Expected 2027)",
-    "SMA Harapan 3 Deli Tua - Science Major"
-  ],
-  "fields_of_interest": [
-    "Data Science & Analytics",
-    "Machine Learning & AI",
-    "Generative AI & LLMs",
-    "Cloud & DevOps",
-    "Full-Stack Development"
-  ],
-  "technical_background": [
-    "Machine Learning Engineer",
-    "Data Scientist",
-    "MLOps Engineer"
-  ],
-  "currently_learning": [
-    "Web 3",
-    "Advanced DevOps & Cloud Architecture",
-  ]
-}
-```
-## `Let's Connect and have a Chat! 💬`
+# 👋 Hi, I'm Muhammad Karov Ardava Barus
 
 <p align="center">
-  <a href="https://linkedin.com/in/muhammad-karov-ardava-barus-27b000223">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://komarev.com/ghpvc/?username=Ardavaa&color=00B4AB&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Ardavaa?style=social" alt="Followers"/>
+</p>
+
+<p align="center">
+  📍 Bandung, West Java, Indonesia<br>
+  🎓 Informatics Student @ Telkom University<br>
+  🏆 Chairperson @ <a href="https://instagram.com/helloprodigi">PRODIGI</a> — Competitive & Innovation Community<br>
+  🔬 Interested in Machine Learning & Data Science
+</p>
+
+---
+
+## 🚀 About Me
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  Currently:   Informatics Student (Telkom University)       │
+│  Focus:       Machine Learning • Deep Learning • AI        │
+│  Leadership:  Chairperson of PRODIGI Community               │
+│  Passion:     Data Science • Research • Innovation          │
+└─────────────────────────────────────────────────────────────┘
+```
+
+- 🔭 Currently working on **ML/DL projects** and **research papers**
+- 🌱 Learning more about **Computer Vision**, **NLP**, and **Multimodal AI**
+- 👨‍💻 Check out my projects below
+- 📫 Reach me: [ardava-barus.netlify.app](https://ardava-barus.netlify.app/)
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Google Colab"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace"/>
+</p>
+
+---
+
+## 📂 Featured Projects
+
+| Project | Description | Language |
+|---------|-------------|----------|
+| [audioscopeAI](https://github.com/Ardavaa/audioscopeAI) | ML/LLM-based platform for lung disease detection via respiratory sounds | JavaScript |
+| [bert-large-depression-classification-model](https://github.com/Ardavaa/bert-large-depression-classification-model) | Depression classification using BERT | Jupyter Notebook |
+| [IndoBERT2GPT-Text-Summarization](https://github.com/Ardavaa/IndoBERT2GPT-Text-Summarization) | Indonesian text summarization | Jupyter Notebook |
+| [dinov3-fatigue-detection](https://github.com/Ardavaa/dinov3-fatigue-detection) | Fatigue detection using DINOv3 | Jupyter Notebook |
+| [ModernBERT-RAID](https://github.com/Ardavaa/ModernBERT-RAID) | ModernBERT for text classification | Jupyter Notebook |
+| [lumen-ai](https://github.com/Ardavaa/lumen-ai) | AI project | TypeScript |
+| [capstone-ds](https://github.com/Ardavaa/capstone-ds) | Data Science Capstone | TypeScript |
+| [gemastik-2025-workplace-template](https://github.com/Ardavaa/gemastik-2025-workplace-template) | GEMASTIK 2025 competition template | Jupyter Notebook |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ardavaa&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardavaa&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages"/>
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Ardavaa">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/rdavaa_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://linkedin.com/in/ardava-barus">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://huggingface.co/ardavey">
+    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace"/>
+  </a>
+  <a href="https://ardava-barus.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://instagram.com/helloprodigi">
+    <img src="https://img.shields.io/badge/PRODIGI-E1306C?style=flat-square&logo=instagram&logoColor=white" alt="PRODIGI IG"/>
   </a>
 </p>
 
-</div>
-
-
-
 ---
 
-## 💻 Tech Stack:
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Transformers-blue?style=for-the-badge) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-
----
-
-## 📊 GitHub Statistics:
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardavaa&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" /> 
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ardavaa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
+<p align="center">
+  <i>⭐ From Ardavaa</i>
+</p>
