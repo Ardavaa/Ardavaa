@@ -15,12 +15,10 @@
 
 ## Muhammad Karov Ardava Barus
 
-**Informatics Student · ML/AI Enthusiast · PRODIGI Chairperson**
+**Student @ Telkom University · AI/ML Researcher · Front-End Developer**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ardava--barus.netlify.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://ardava-barus.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ardava--barus-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ardava-barus)
-[![Instagram](https://img.shields.io/badge/PRODIGI-helloprodigi-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/helloprodigi)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-ardavey-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/ardavey)
+[![Instagram](https://img.shields.io/badge/Instagram-rdavaa_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rdavaa_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammad--karov--ardava--barus-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-karov-ardava-barus-27b000223)
 
 <br>
 
