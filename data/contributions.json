@@ -1,21 +1,21 @@
 {
   "username": "Ardavaa",
-  "generated_at": "2026-10-31T03:02:19Z",
+  "generated_at": "2026-11-01T02:57:34Z",
   "range": {
-    "start": "2025-10-26",
-    "end": "2026-10-31"
+    "start": "2025-11-02",
+    "end": "2026-11-01"
   },
-  "total_contributions": 778,
-  "active_days": 131,
-  "avg_per_active_day": 5.9,
+  "total_contributions": 741,
+  "active_days": 124,
+  "avg_per_active_day": 6.0,
   "current_streak": {
     "length": 0,
     "start": null,
     "end": null
   },
   "longest_streak": {
-    "length": 49,
-    "start": "2025-10-26",
+    "length": 42,
+    "start": "2025-11-02",
     "end": "2025-12-13"
   },
   "best_day": {
@@ -24,12 +24,8 @@
   },
   "monthly": [
     {
-      "month": "2025-10",
-      "total": 33
-    },
-    {
       "month": "2025-11",
-      "total": 154
+      "total": 150
     },
     {
       "month": "2025-12",
@@ -74,37 +70,13 @@
     {
       "month": "2026-10",
       "total": 25
+    },
+    {
+      "month": "2026-11",
+      "total": 0
     }
   ],
   "days": [
-    {
-      "date": "2025-10-26",
-      "count": 3
-    },
-    {
-      "date": "2025-10-27",
-      "count": 4
-    },
-    {
-      "date": "2025-10-28",
-      "count": 4
-    },
-    {
-      "date": "2025-10-29",
-      "count": 4
-    },
-    {
-      "date": "2025-10-30",
-      "count": 10
-    },
-    {
-      "date": "2025-10-31",
-      "count": 8
-    },
-    {
-      "date": "2025-11-01",
-      "count": 4
-    },
     {
       "date": "2025-11-02",
       "count": 7
@@ -1559,6 +1531,10 @@
     },
     {
       "date": "2026-10-31",
+      "count": 0
+    },
+    {
+      "date": "2026-11-01",
       "count": 0
     }
   ]
